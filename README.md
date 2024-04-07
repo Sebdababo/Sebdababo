@@ -1,7 +1,5 @@
 # Hello I'm SebDaBaBo
 
-I'm learning my first programming language "Python"!
-
-I still want to learn JavaScript / TypeScript, HTML, etc.
-
-Wish me luck🍀!
+# !!Coming Soon...!!
+  code transcripts from:
+    Harvard CS50’s Introduction to Programming with Python – Full University Course(--https://youtu.be/nLRL_NcnK-4?si=nZN1kh_CNATOzxL9--)
